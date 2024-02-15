@@ -25,6 +25,11 @@ export default defineNuxtConfig({
   build: {
     // standalone: true,
     // chunkSizeWarningLimit: 5000,
+    rollupOptions: {
+      external: [
+        /^node:.*/,
+      ]
+    }
   },
   runtimeConfig: {
     // Public keys that are exposed to the client
