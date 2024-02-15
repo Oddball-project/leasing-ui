@@ -27,7 +27,7 @@ export default defineNuxtConfig({
     // chunkSizeWarningLimit: 5000,
     rollupOptions: {
       external: [
-        /^node:.*/,
+        'vue-star-rating',
       ]
     }
   },
