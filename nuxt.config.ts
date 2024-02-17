@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: "NuxtJs Admin & Dashboard Template",
-      htmlAttrs: { dir: "rtl", lang: "en" },
+      htmlAttrs: { dir: "ltr", lang: "en" },
       meta: [
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
