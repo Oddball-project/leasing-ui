@@ -32,7 +32,7 @@ export default {
       <BCard no-body class="overflow-hidden">
         <div class="bg-primary pb-0">
           <BCardBody class="text-center py-4">
-            <h4 class="fw-medium text-white mb-3">Steex Term & Conditions</h4>
+            <h4 class="fw-medium text-white mb-3">Rodelas Residence Space and Leasing Term & Conditions</h4>
             <p class="text-white text-opacity-75 mb-0">
               Legal Information & Noti
             </p>
@@ -49,13 +49,8 @@ export default {
         <BCardBody>
           <BCardTitle title-tag="h6" class="mb-3"
             ><i class="bi bi-circle-square align-baseline me-1 text-info" />
-            Welcome to Steex!</BCardTitle
+            Welcome to Rodelas Residence Space and Leasing!</BCardTitle
           >
-          <p class="text-muted mb-2">
-            These Themesbrand Standard Terms and Conditions written on this
-            webpage shall manage your use of our website, themesbrand accessible
-            at <BLink href="https://themesbrand.com">themesbrand.com</BLink>.
-          </p>
           <p class="text-muted mb-2">
             These Terms will be applied fully and affect to your use of this
             Website. By using this Website, you agreed to accept all terms and

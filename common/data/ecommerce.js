@@ -212,7 +212,7 @@ const customers = [
         id: "1",
         img: avatar2,
         name: "Javon Pouros",
-        email: "rashawn@steex.com",
+        email: "rashawn@rodelasresidence.com",
         phone: "+(253) 12345 67890",
         create_date: "28 Feb, 2023",
         status: "Unactive"
@@ -220,7 +220,7 @@ const customers = [
         id: "2",
         img: avatar3,
         name: "Willy Gulgowski",
-        email: "gulgowski@steex.com",
+        email: "gulgowski@rodelasresidence.com",
         phone: "+(152) 32165 49873",
         create_date: "20 Feb, 2023",
         status: "Block"
@@ -228,7 +228,7 @@ const customers = [
         id: "3",
         img: avatar4,
         name: "Verona Mosciski",
-        email: "vmosciski@steex.com",
+        email: "vmosciski@rodelasresidence.com",
         phone: "+(231) 14562 32165",
         create_date: "16 Feb, 2023",
         status: "Active"
@@ -236,7 +236,7 @@ const customers = [
         id: "4",
         img: avatar5,
         name: "Vinnie Huels",
-        email: "vinnie@steex.com",
+        email: "vinnie@rodelasresidence.com",
         phone: "+(44) 98765 32104",
         create_date: "23 Jan, 2023",
         status: "Active"
@@ -244,7 +244,7 @@ const customers = [
         id: "5",
         img: avatar6,
         name: "Deondre Huel",
-        email: "rashawn@steex.com",
+        email: "rashawn@rodelasresidence.com",
         phone: "+(251) 25874 13690",
         create_date: "17 Jan, 2023",
         status: "Active"
@@ -252,7 +252,7 @@ const customers = [
         id: "6",
         img: avatar7,
         name: "Nelson Schaden",
-        email: "nelson@steex.com",
+        email: "nelson@rodelasresidence.com",
         phone: "+(92) 67890 12345",
         create_date: "02 Feb, 2023",
         status: "Unactive"
@@ -260,7 +260,7 @@ const customers = [
         id: "7",
         img: avatar8,
         name: "Juanita Price",
-        email: "juanitaprice@steex.com",
+        email: "juanitaprice@rodelasresidence.com",
         phone: "+(62) 35791 15935",
         create_date: "29 Dec, 2022",
         status: "Block"
@@ -268,7 +268,7 @@ const customers = [
         id: "8",
         img: avatar9,
         name: "Mac Gyver",
-        email: "macGyver@steex.com",
+        email: "macGyver@rodelasresidence.com",
         phone: "+(251) 15935 35795",
         create_date: "24 Dec, 2022",
         status: "Active"
@@ -276,7 +276,7 @@ const customers = [
         id: "9",
         img: avatar10,
         name: "Zachary Stokes",
-        email: "zacharystokes@steex.com",
+        email: "zacharystokes@rodelasresidence.com",
         phone: "+(532) 35795 15935",
         create_date: "14 Dec, 2022",
         status: "Active"
@@ -284,7 +284,7 @@ const customers = [
         id: "10",
         img: userDummy,
         name: "Sarai Schmidt",
-        email: "sschmidt@steex.com",
+        email: "sschmidt@rodelasresidence.com",
         phone: "+(120) 15935 32165",
         create_date: "08 Dec, 2022",
         status: "Block"
@@ -292,7 +292,7 @@ const customers = [
         id: "11",
         img: avatar1,
         name: "Ubaldo Bartell",
-        email: "ubaldobartell@steex.com",
+        email: "ubaldobartell@rodelasresidence.com",
         phone: "+(105) 93521 23165",
         create_date: "01 Dec, 2022",
         status: "Unactive"
@@ -300,7 +300,7 @@ const customers = [
         id: "12",
         img: avatar2,
         name: "Soledad Vandervort",
-        email: "vandervort@steex.com",
+        email: "vandervort@rodelasresidence.com",
         phone: "+(210) 95162 15935",
         create_date: "24 Nov, 2022",
         status: "Active"
@@ -308,7 +308,7 @@ const customers = [
         id: "13",
         img: avatar3,
         name: "Marcelino Smith",
-        email: "marcelino@steex.com",
+        email: "marcelino@rodelasresidence.com",
         phone: "+(512) 34682 17935",
         create_date: "21 Nov, 2022",
         status: "Active"

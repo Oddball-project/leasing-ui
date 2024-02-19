@@ -60,7 +60,7 @@ export default {
         id: "1",
         img: avatar5,
         name: "Verona Mosciski",
-        email: "vmosciski@steex.com",
+        email: "vmosciski@rodelasresidence.com",
         phone: "+(253) 12345 67890",
         create_date: "20 Feb, 2023",
         status: "Block"

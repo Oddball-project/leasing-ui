@@ -405,20 +405,6 @@ export default {
         </BCardHeader>
         <BCardBody>
           <form action="#" class="form-steps" autocomplete="off">
-            <div class="text-center pt-3 pb-4 mb-1">
-              <img
-                v-if="isDarkMode"
-                src="@/assets/images/logo-light.png"
-                alt=""
-                height="22"
-              />
-              <img
-                v-else
-                src="@/assets/images/logo-dark.png"
-                alt=""
-                height="22"
-              />
-            </div>
             <div class="step-arrow-nav mb-4">
               <ul class="nav nav-pills custom-nav nav-justified" role="tablist">
                 <li class="nav-item" role="presentation">

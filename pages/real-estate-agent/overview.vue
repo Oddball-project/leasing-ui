@@ -1442,7 +1442,7 @@ export default {
                     </tr>
                     <tr>
                       <th>Email</th>
-                      <td>jacinthe@steex.com</td>
+                      <td>jacinthe@rodelasresidence.com</td>
                     </tr>
                     <tr>
                       <th>Contact Number</th>

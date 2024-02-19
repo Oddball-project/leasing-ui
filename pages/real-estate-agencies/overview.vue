@@ -67,7 +67,7 @@ export default {
                         </BTr>
                         <BTr>
                           <BTh>Email:</BTh>
-                          <BTd>jacinthe@steex.com</BTd>
+                          <BTd>jacinthe@rodelasresidence.com</BTd>
                         </BTr>
                         <BTr>
                           <BTh>Contact Number:</BTh>

@@ -42,7 +42,7 @@ const agenciesList = [
         location: "Brasília, Brazil",
         property: "7620",
         employee: "36",
-        email: "microsoft@steex.com",
+        email: "microsoft@rodelasresidence.com",
         contact: "(33) 3521-6761"
     }, {
         id: 2,
@@ -53,7 +53,7 @@ const agenciesList = [
         location: "California, USA",
         property: "1095",
         employee: "10",
-        email: "mail_chimp@steex.com",
+        email: "mail_chimp@rodelasresidence.com",
         contact: "(53) 3035-3100"
     }, {
         id: 3,
@@ -64,7 +64,7 @@ const agenciesList = [
         location: "Sobrado, Spain",
         property: "953",
         employee: "17",
-        email: "themesbrand@steex.com",
+        email: "themesbrand@rodelasresidence.com",
         contact: "(21) 2345-6789"
     }, {
         id: 4,
@@ -75,7 +75,7 @@ const agenciesList = [
         location: "San Luis Potosi, Mexico",
         property: "3248",
         employee: "50",
-        email: "pichhub@steex.com",
+        email: "pichhub@rodelasresidence.com",
         contact: "(11) 3666-9716"
     }, {
         id: 5,
@@ -86,7 +86,7 @@ const agenciesList = [
         location: "Ibiza, Spain",
         property: "4985",
         employee: "55",
-        email: "rotic@steex.com",
+        email: "rotic@rodelasresidence.com",
         contact: "(92) 3639-8685"
     }, {
         id: 6,
@@ -97,7 +97,7 @@ const agenciesList = [
         location: "Guarulhos, Brazil",
         property: "3214",
         employee: "64",
-        email: "terry@steex.com",
+        email: "terry@rodelasresidence.com",
         contact: "(11) 3885-1022"
     }, {
         id: 7,
@@ -108,7 +108,7 @@ const agenciesList = [
         location: "California, USA",
         property: "1095",
         employee: "10",
-        email: "brand_infosys@steex.com",
+        email: "brand_infosys@rodelasresidence.com",
         contact: "(53) 3035-3100"
     }, {
         id: 8,
@@ -119,7 +119,7 @@ const agenciesList = [
         location: "Natal, Brazil",
         property: "1258",
         employee: "37",
-        email: "pichfashion@steex.com",
+        email: "pichfashion@rodelasresidence.com",
         contact: "(51) 3233-7909"
     }, {
         id: 9,
@@ -130,7 +130,7 @@ const agenciesList = [
         location: "Hamburg, Germany",
         property: "1023",
         employee: "49",
-        email: "dribbble@steex.com",
+        email: "dribbble@rodelasresidence.com",
         contact: "(27) 3041-1766"
     }, {
         id: 10,
@@ -141,7 +141,7 @@ const agenciesList = [
         location: "Birmingham, United Kingdom",
         property: "954",
         employee: "32",
-        email: "github@steex.com",
+        email: "github@rodelasresidence.com",
         contact: "(86) 9985-9220"
     }, {
         id: 11,
@@ -152,7 +152,7 @@ const agenciesList = [
         location: "Ibiza, Spain",
         property: "4985",
         employee: "55",
-        email: "rotic@steex.com",
+        email: "rotic@rodelasresidence.com",
         contact: "(92) 3639-8685"
     }
 ];
@@ -168,7 +168,7 @@ const agentGrid = [
         name: "Dianna Bogan",
         property: "149",
         location: "Brasília, Brazil",
-        email: "dianna@steex.com",
+        email: "dianna@rodelasresidence.com",
         contact: "(86) 9985-9220",
         status: "Active",
         isBadge: true
@@ -180,7 +180,7 @@ const agentGrid = [
         name: "Josefa Weissnat",
         property: "164",
         location: "California, USA",
-        email: "josefaweissnat@steex.com",
+        email: "josefaweissnat@rodelasresidence.com",
         contact: "(53) 3035-3100",
         status: "Unactive",
         isBadge: false
@@ -192,7 +192,7 @@ const agentGrid = [
         name: "Ophelia Steuber",
         property: "279",
         location: "Sobrado, Spain",
-        email: "opheliasteuber@steex.com",
+        email: "opheliasteuber@rodelasresidence.com",
         contact: "(21) 2345-6789",
         status: "Active",
         isBadge: false
@@ -204,7 +204,7 @@ const agentGrid = [
         name: "Federico Hand",
         property: "487",
         location: "San Luis Potosi, Mexico",
-        email: "federico@steex.com",
+        email: "federico@rodelasresidence.com",
         contact: "(11) 3666-9716",
         status: "Active",
         isBadge: false
@@ -216,7 +216,7 @@ const agentGrid = [
         name: "Uriel King",
         property: "369",
         location: "Ibiza, Spain",
-        email: "urielking@steex.com",
+        email: "urielking@rodelasresidence.com",
         contact: "(92) 3639-8685",
         status: "Unactive",
         isBadge: true
@@ -228,7 +228,7 @@ const agentGrid = [
         name: "Buck Roberts",
         property: "495",
         location: "Guarulhos, Brazil",
-        email: "buckroberts@steex.com",
+        email: "buckroberts@rodelasresidence.com",
         contact: "(11) 3885-1022",
         status: "Active",
         isBadge: false
@@ -240,7 +240,7 @@ const agentGrid = [
         name: "Xander Wyman",
         property: "85",
         location: "Logrono, Spain",
-        email: "xander@steex.com",
+        email: "xander@rodelasresidence.com",
         contact: "(48) 3877-9000",
         status: "Unactive",
         isBadge: true
@@ -252,7 +252,7 @@ const agentGrid = [
         name: "Donnell Schultz",
         property: "326",
         location: "Natal, Brazil",
-        email: "donnell@steex.com",
+        email: "donnell@rodelasresidence.com",
         contact: "(51) 3233-7909",
         status: "Active",
         isBadge: false
@@ -264,7 +264,7 @@ const agentGrid = [
         name: "Jacinthe Will",
         property: "741",
         location: "Brasília, Brazil",
-        email: "dianna@steex.com",
+        email: "dianna@rodelasresidence.com",
         contact: "(33) 3521-6761",
         status: "Active",
         isBadge: true
@@ -276,7 +276,7 @@ const agentGrid = [
         name: "Josefa Weissnat",
         property: "159",
         location: "California, USA",
-        email: "josefaweissnat@steex.com",
+        email: "josefaweissnat@rodelasresidence.com",
         contact: "(53) 3035-3100",
         status: "Unactive",
         isBadge: false
@@ -288,7 +288,7 @@ const agentGrid = [
         name: "Buck Roberts",
         property: "149",
         location: "Guarulhos, Brazil",
-        email: "buckroberts@steex.com",
+        email: "buckroberts@rodelasresidence.com",
         contact: "(11) 3885-1022",
         status: "Active",
         isBadge: false
@@ -304,7 +304,7 @@ const agentList = [
         name: "Dianna Bogan",
         property: "149",
         location: "Brasília, Brazil",
-        email: "dianna@steex.com",
+        email: "dianna@rodelasresidence.com",
         contact: "(86) 9985-9220",
         status: "Active",
         new: true
@@ -316,7 +316,7 @@ const agentList = [
         name: "Josefa Weissnat",
         property: "164",
         location: "California, USA",
-        "email": "josefaweissnat@steex.com",
+        "email": "josefaweissnat@rodelasresidence.com",
         contact: "(53) 3035-3100",
         status: "Unactive",
         new: false
@@ -328,7 +328,7 @@ const agentList = [
         name: "Ophelia Steuber",
         property: "279",
         location: "Sobrado, Spain",
-        email: "opheliasteuber@steex.com",
+        email: "opheliasteuber@rodelasresidence.com",
         contact: "(21) 2345-6789",
         status: "Active",
         new: false
@@ -340,7 +340,7 @@ const agentList = [
         name: "Federico Hand",
         property: "487",
         location: "San Luis Potosi, Mexico",
-        email: "federico@steex.com",
+        email: "federico@rodelasresidence.com",
         contact: "(11) 3666-9716",
         status: "Active",
         new: false
@@ -352,7 +352,7 @@ const agentList = [
         name: "Uriel King",
         property: "369",
         location: "Ibiza, Spain",
-        email: "urielking@steex.com",
+        email: "urielking@rodelasresidence.com",
         contact: "(92) 3639-8685",
         status: "Unactive",
         new: true
@@ -364,7 +364,7 @@ const agentList = [
         name: "Buck Roberts",
         property: "495",
         location: "Guarulhos, Brazil",
-        email: "buckroberts@steex.com",
+        email: "buckroberts@rodelasresidence.com",
         contact: "(11) 3885-1022",
         status: "Active",
         new: false
@@ -376,7 +376,7 @@ const agentList = [
         name: "Xander Wyman",
         property: "85",
         location: "Logrono, Spain",
-        email: "xander@steex.com",
+        email: "xander@rodelasresidence.com",
         contact: "(48) 3877-9000",
         status: "Unactive",
         new: true
@@ -388,7 +388,7 @@ const agentList = [
         name: "Donnell Schultz",
         property: "326",
         location: "Natal, Brazil",
-        email: "donnell@steex.com",
+        email: "donnell@rodelasresidence.com",
         contact: "(51) 3233-7909",
         status: "Active",
         new: false
@@ -400,7 +400,7 @@ const agentList = [
         name: "Jacinthe Will",
         property: "741",
         location: "Brasília, Brazil",
-        email: "dianna@steex.com",
+        email: "dianna@rodelasresidence.com",
         contact: "(33) 3521-6761",
         status: "Active",
         new: true
@@ -412,7 +412,7 @@ const agentList = [
         name: "Josefa Weissnat",
         property: "159",
         location: "California, USA",
-        email: "josefaweissnat@steex.com",
+        email: "josefaweissnat@rodelasresidence.com",
         contact: "(53) 3035-3100",
         status: "Unactive",
         new: false
@@ -424,7 +424,7 @@ const agentList = [
         name: "Buck Roberts",
         property: "149",
         location: "Guarulhos, Brazil",
-        email: "buckroberts@steex.com",
+        email: "buckroberts@rodelasresidence.com",
         contact: "(11) 3885-1022",
         status: "Active",
         new: false

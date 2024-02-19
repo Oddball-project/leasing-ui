@@ -314,7 +314,7 @@ export default {
                 </BTr>
                 <BTr>
                   <BTh>Project</BTh>
-                  <BTd>Steex - Admin & Dashboard</BTd>
+                  <BTd>Rodelas - Admin & Dashboard</BTd>
                 </BTr>
                 <BTr>
                   <BTh>Assigned To:</BTh>

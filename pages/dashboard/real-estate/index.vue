@@ -59,11 +59,11 @@ export default {
       completedProjectChart,
       propertiesTypeChart,
       propertiesTypeSemiDonutChart,
-      date: "01 Feb 2023 to 28 Feb 2023",
+      date: "01 Feb 2024 to 29 Feb 2024",
       config: {
         mode: "range",
         dateFormat: "d M, Y",
-        defaultDate: "01 Feb 2023 to 28 Feb 2023"
+        defaultDate: "01 Feb 2024 to 29 Feb 2024"
       },
       activeTab: "revenue"
     };

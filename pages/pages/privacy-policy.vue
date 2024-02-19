@@ -51,7 +51,7 @@ export default {
         <BCardBody>
           <BCardTitle title-tag="h6" class="mb-3"
             ><i class="bi bi-circle-square align-baseline me-1 text-info"></i>
-            Getting Stared with Steex</BCardTitle
+            Getting Stared with Rodelas Residence Space and Leasing</BCardTitle
           >
           <p class="text-muted mb-2">
             At Website Name, accessible at Website.com, one of our main

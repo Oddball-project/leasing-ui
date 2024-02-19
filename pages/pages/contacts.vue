@@ -104,7 +104,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              patriciahonda@steex.com
+              patriciahonda@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> 2995 Lynn Street
@@ -169,7 +169,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              jameslash@steex.com
+              jameslash@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> 3089 Leroy Lane
@@ -234,7 +234,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              angusgarnsey@steex.com
+              angusgarnsey@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> 1738 Old Cress
@@ -299,7 +299,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              matildamarston@steex.com
+              matildamarston@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> 2168 Bezuidenhout
@@ -364,7 +364,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              zacharybenjamin@steex.com
+              zacharybenjamin@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> Via Carlo Alberto,
@@ -431,7 +431,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              rubychomley@steex.com
+              rubychomley@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> Via Pasquale
@@ -496,7 +496,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              sophiaprendiville@steex.com
+              sophiaprendiville@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> 36078-Maglio Di
@@ -563,7 +563,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              samanthazepps@steex.com
+              samanthazepps@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> Via del Carmine,
@@ -630,7 +630,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              xavierbower@steex.com
+              xavierbower@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> Rue Haute 47 8630
@@ -695,7 +695,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              ryderherron@steex.com
+              ryderherron@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> Rue du Commerce
@@ -760,7 +760,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              jessedouard@steex.com
+              jessedouard@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> Laivurinkatu 29
@@ -825,7 +825,7 @@ export default {
             </p>
             <p class="text-muted mb-2">
               <i class="bi bi-envelope align-baseline me-1" />
-              isabelhardwicke@steex.com
+              isabelhardwicke@rodelasresidence.com
             </p>
             <p class="text-muted mb-0">
               <i class="bi bi-geo-alt align-baseline me-1" /> Kankaanpääntie 64

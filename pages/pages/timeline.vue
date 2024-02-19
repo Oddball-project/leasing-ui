@@ -209,7 +209,7 @@ export default {
                       </div>
                       <div class="flex-grow-1 ms-2">
                         <BLink href="#" class="stretched-link">
-                          <h6>Steex Invoice</h6>
+                          <h6>Rodelas Invoice</h6>
                         </BLink>
                         <small>342 KB</small>
                       </div>

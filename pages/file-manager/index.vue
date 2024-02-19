@@ -589,7 +589,7 @@ export default {
 
                   <BLink href="#!">
                     <h6 class="fs-md text-truncate">
-                      Steex - Admin & Dashboard Templates
+                      Rodelas - Admin & Dashboard Templates
                     </h6>
                   </BLink>
                   <ul class="list-unstyled hstack gap-2 text-muted mb-0">
@@ -832,7 +832,7 @@ export default {
                     </td>
                     <td>
                       <BLink href="#!" class="text-reset document_name"
-                        >Steex Design Kit.psd</BLink
+                        >Rodelas Design Kit.psd</BLink
                       >
                     </td>
                     <td class="file_item">148</td>
@@ -1283,7 +1283,7 @@ export default {
                       </div>
                     </div>
                     <div class="flex-grow-1">
-                      <h6 class="mb-0">Steex Admin</h6>
+                      <h6 class="mb-0">Rodelas Admin</h6>
                     </div>
                     <div class="flex-shrink-0 text-muted">631 MB</div>
                   </div>
@@ -1337,7 +1337,7 @@ export default {
                       </div>
                     </div>
                     <div class="flex-grow-1">
-                      <h6 class="mb-0">Steex Docs</h6>
+                      <h6 class="mb-0">Rodelas Docs</h6>
                     </div>
                     <div class="flex-shrink-0 text-muted">32.19 MB</div>
                   </div>

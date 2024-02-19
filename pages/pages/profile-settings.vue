@@ -226,7 +226,7 @@ export default {
               class="form-control"
               id="websiteInput"
               placeholder="www.example.com"
-              value="www.steex.com"
+              value="www.rodelasresidence.com"
             />
           </div>
           <div class="mb-3 d-flex">
@@ -411,7 +411,7 @@ export default {
                         class="form-control"
                         id="emailInput"
                         placeholder="Enter your email"
-                        value="richardmarshall@steex.com"
+                        value="richardmarshall@rodelasresidence.com"
                       />
                     </div>
                   </BCol>

@@ -96,39 +96,11 @@ export default {
           <ul class="nav nav-sm flex-column">
             <li class="nav-item">
               <nuxt-link
-                to="/dashboard/analytics"
-                class="nav-link"
-                data-key="t-analytics"
-              >
-                {{ $t("t-analytics") }}</nuxt-link
-              >
-            </li>
-            <li class="nav-item">
-              <nuxt-link to="/dashboard/crm" class="nav-link" data-key="t-crm">
-                {{ $t("t-crm") }}
-              </nuxt-link>
-            </li>
-            <li class="nav-item">
-              <nuxt-link to="/" class="nav-link" data-key="t-ecommerce">
-                {{ $t("t-ecommerce") }}
-              </nuxt-link>
-            </li>
-            <li class="nav-item">
-              <nuxt-link
-                to="/dashboard/learning"
-                class="nav-link"
-                data-key="t-learning"
-              >
-                {{ $t("t-learning") }}
-              </nuxt-link>
-            </li>
-            <li class="nav-item">
-              <nuxt-link
                 to="/dashboard/real-estate"
                 class="nav-link"
                 data-key="t-real-estate"
               >
-                {{ $t("t-real-estate") }}
+                Admin
               </nuxt-link>
             </li>
           </ul>
@@ -885,15 +857,6 @@ export default {
           :visible="activeId === 'sidebarPages'"
         >
           <ul class="nav nav-sm flex-column">
-            <li class="nav-item">
-              <nuxt-link
-                to="/pages/starter"
-                class="nav-link"
-                data-key="t-starter"
-              >
-                {{ $t("t-starter") }}
-              </nuxt-link>
-            </li>
             <li class="nav-item">
               <nuxt-link
                 to="/pages/profile"
@@ -1720,80 +1683,6 @@ export default {
                 data-key="t-google"
                 >{{ $t("t-google") }}</nuxt-link
               >
-            </li>
-          </ul>
-        </BCollapse>
-      </li>
-
-      <li class="nav-item">
-        <BLink
-          class="nav-link menu-link"
-          data-bs-toggle="collapse"
-          aria-expanded="false"
-          v-b-toggle.sidebarMultilevel
-        >
-          <i class="bi bi-share"></i>
-          <span data-key="t-multi-level">{{ $t("t-multi-level") }}</span>
-        </BLink>
-        <BCollapse class="menu-dropdown" id="sidebarMultilevel">
-          <ul class="nav nav-sm flex-column">
-            <li class="nav-item">
-              <nuxt-link to="#" class="nav-link" data-key="t-level-1.1">
-                {{ $t("t-level-1.1") }}
-              </nuxt-link>
-            </li>
-            <li class="nav-item">
-              <BLink
-                class="nav-link"
-                data-bs-toggle="collapse"
-                aria-expanded="false"
-                v-b-toggle.sidebarAccount
-                data-key="t-level-1.2"
-              >
-                {{ $t("t-level-1.2") }}
-              </BLink>
-              <BCollapse class="menu-dropdown" id="sidebarAccount">
-                <ul class="nav nav-sm flex-column">
-                  <li class="nav-item">
-                    <nuxt-link to="#" class="nav-link" data-key="t-level-2.1">
-                      {{ $t("t-level-2.1") }}
-                    </nuxt-link>
-                  </li>
-                  <li class="nav-item">
-                    <BLink
-                      class="nav-link"
-                      data-bs-toggle="collapse"
-                      aria-expanded="false"
-                      v-b-toggle.sidebarCrm
-                      data-key="t-level-2.2"
-                    >
-                      {{ $t("t-level-2.2") }}
-                    </BLink>
-                    <BCollapse class="menu-dropdown" id="sidebarCrm">
-                      <ul class="nav nav-sm flex-column">
-                        <li class="nav-item">
-                          <nuxt-link
-                            to="#"
-                            class="nav-link"
-                            data-key="t-level-3.1"
-                          >
-                            {{ $t("t-level-3.1") }}
-                          </nuxt-link>
-                        </li>
-                        <li class="nav-item">
-                          <nuxt-link
-                            to="#"
-                            class="nav-link"
-                            data-key="t-level-3.2"
-                          >
-                            {{ $t("t-level-3.2") }}
-                          </nuxt-link>
-                        </li>
-                      </ul>
-                    </BCollapse>
-                  </li>
-                </ul>
-              </BCollapse>
             </li>
           </ul>
         </BCollapse>

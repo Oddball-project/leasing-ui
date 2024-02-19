@@ -128,7 +128,7 @@ export default {
                   <BTr>
                     <BTh class="ps-0" scope="row">Email</BTh>
                     <BTd class="text-muted text-end">
-                      richardmarshall@steex.com
+                      richardmarshall@rodelasresidence.com
                     </BTd>
                   </BTr>
                   <BTr>
@@ -221,7 +221,7 @@ export default {
                   </div>
                 </div>
                 <div class="flex-grow-1">
-                  <h6>Steex.txt</h6>
+                  <h6>Rodelas.txt</h6>
                   <p class="text-muted mb-0">1.49 MB</p>
                 </div>
                 <div class="flex-shrink-0">
@@ -273,7 +273,7 @@ export default {
                   </div>
                 </div>
                 <div class="flex-grow-1">
-                  <h6>Steex Docs.pdf</h6>
+                  <h6>Rodelas Docs.pdf</h6>
                   <p class="text-muted mb-0">2.06 MB</p>
                 </div>
                 <div class="flex-shrink-0">
@@ -740,7 +740,7 @@ export default {
                               href="javascript:void(0);"
                               class="stretched-link"
                             >
-                              <h6>Steex Invoice</h6>
+                              <h6>Rodelas Invoice</h6>
                             </BLink>
                             <small>342 KB</small>
                           </div>
@@ -1190,7 +1190,7 @@ export default {
                     </div>
                   </div>
                   <h6 class="fs-md text-truncate">
-                    <BLink href="#" class="text-reset">Steex Project</BLink>
+                    <BLink href="#" class="text-reset">Rodelas Project</BLink>
                   </h6>
                   <p class="text-muted fs-sm text-truncate">
                     Last Update :
@@ -1919,7 +1919,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      patriciahonda@steex.com
+                      patriciahonda@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> 2995 Lynn
@@ -1989,7 +1989,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      jameslash@steex.com
+                      jameslash@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> 3089 Leroy
@@ -2059,7 +2059,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      angusgarnsey@steex.com
+                      angusgarnsey@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> 1738 Old
@@ -2129,7 +2129,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      matildamarston@steex.com
+                      matildamarston@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> 2168
@@ -2199,7 +2199,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      zacharybenjamin@steex.com
+                      zacharybenjamin@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> Via Carlo
@@ -2271,7 +2271,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      rubychomley@steex.com
+                      rubychomley@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> Via
@@ -2341,7 +2341,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      sophiaprendiville@steex.com
+                      sophiaprendiville@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" />
@@ -2413,7 +2413,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      samanthazepps@steex.com
+                      samanthazepps@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> Via del
@@ -2485,7 +2485,7 @@ export default {
                     </p>
                     <p class="text-muted mb-2">
                       <i class="bi bi-envelope align-baseline me-1" />
-                      xavierbower@steex.com
+                      xavierbower@rodelasresidence.com
                     </p>
                     <p class="text-muted mb-0">
                       <i class="bi bi-geo-alt align-baseline me-1" /> Rue Haute

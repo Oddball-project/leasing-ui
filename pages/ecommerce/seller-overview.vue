@@ -601,7 +601,7 @@ export default {
                   <th>Website</th>
                   <td>
                     <BLink href="#!" class="text-reset"
-                      >steex@themesbrand.com</BLink
+                      >rodelasresidence@themesbrand.com</BLink
                     >
                   </td>
                 </tr>
