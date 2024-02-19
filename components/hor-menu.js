@@ -22,12 +22,6 @@ const horMenu = [
         parentId: "dashboard"
       },
       {
-        id: "ecommerce",
-        label: "t-ecommerce",
-        link: "/",
-        parentId: "dashboard"
-      },
-      {
         id: "learning",
         label: "t-learning",
         link: "/dashboard/learning",
@@ -53,80 +47,6 @@ const horMenu = [
   },
   { id: "apps-chat", label: "t-chat", icon: "ph-chats", link: "/chat" },
   { id: "apps-email", label: "t-email", icon: "ph-envelope", link: "/email" },
-  {
-    id: "ecommerce",
-    label: "t-ecommerce",
-    icon: "ph-storefront",
-    link: "sidebarEcommerce",
-    subItems: [
-      {
-        id: 1,
-        label: "t-products",
-        link: "/ecommerce/products",
-        parentId: "ecommerce"
-      },
-      {
-        id: 2,
-        label: "t-products-grid",
-        link: "/ecommerce/products-grid",
-        parentId: "ecommerce"
-      },
-      {
-        id: 2,
-        label: "t-products-Details",
-        link: "/ecommerce/product-details",
-        parentId: "ecommerce"
-      },
-      {
-        id: 3,
-        label: "t-create-product",
-        link: "/ecommerce/add-product",
-        parentId: "ecommerce"
-      },
-      {
-        id: 4,
-        label: "t-orders",
-        link: "/ecommerce/orders",
-        parentId: "ecommerce"
-      },
-      {
-        id: 5,
-        label: "t-order-overview",
-        link: "/ecommerce/order-overview",
-        parentId: "ecommerce"
-      },
-      {
-        id: 6,
-        label: "t-customers",
-        link: "/ecommerce/customers",
-        parentId: "ecommerce"
-      },
-      {
-        id: 7,
-        label: "t-shopping-cart",
-        link: "/ecommerce/cart",
-        parentId: "ecommerce"
-      },
-      {
-        id: 8,
-        label: "t-checkout",
-        link: "/ecommerce/checkout",
-        parentId: "ecommerce"
-      },
-      {
-        id: 9,
-        label: "t-sellers",
-        link: "/ecommerce/sellers",
-        parentId: "ecommerce"
-      },
-      {
-        id: 10,
-        label: "t-sellers-overview",
-        link: "/ecommerce/seller-overview",
-        parentId: "ecommerce"
-      }
-    ]
-  },
   {
     id: "apps-file-manager",
     label: "t-file-manager",

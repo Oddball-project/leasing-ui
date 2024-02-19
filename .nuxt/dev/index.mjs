@@ -3667,7 +3667,7 @@ function createServerHead(options = {}) {
 
 const unheadPlugins = [];
 
-const appHead = {"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"name":"description","content":"Steex is a modern and responsive Nuxt.js admin & dashboard template that is perfect for building powerful and user-friendly web applications. It comes with a wide range of features, including a built-in CMS, a user management system, and a variety of pre-built pages and components."},{"name":"keywords","content":"steex, nuxt.js, admin template, dashboard template, web application, cms, user management"},{"name":"author","content":"Themesbrand"}],"link":[{"rel":"icon","type":"image/png","href":"/favicon.png"}],"style":[],"script":[],"noscript":[],"title":"NuxtJs Admin & Dashboard Template","htmlAttrs":{"dir":"rtl","lang":"en"}};
+const appHead = {"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"name":"description","content":"Steex is a modern and responsive Nuxt.js admin & dashboard template that is perfect for building powerful and user-friendly web applications. It comes with a wide range of features, including a built-in CMS, a user management system, and a variety of pre-built pages and components."},{"name":"keywords","content":"steex, nuxt.js, admin template, dashboard template, web application, cms, user management"},{"name":"author","content":"Themesbrand"}],"link":[{"rel":"icon","type":"image/png","href":"/favicon.png"}],"style":[],"script":[],"noscript":[],"title":"NuxtJs Admin & Dashboard Template","htmlAttrs":{"dir":"ltr","lang":"en"}};
 
 const appRootId = "__nuxt";
 

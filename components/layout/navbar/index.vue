@@ -524,9 +524,6 @@ export default {
         </div>
 
         <div class="d-flex align-items-center">
-          <AppsDropdown />
-          <LanguageDropdown />
-          <CartDropdown />
           <div class="ms-1 header-item d-none d-sm-flex">
             <BButton
               type="button"

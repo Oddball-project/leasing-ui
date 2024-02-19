@@ -30,7 +30,7 @@ export default {
   },
   mounted() {
     this.setDefaultAttributes();
-    // document.querySelector("html").setAttribute('dir', 'rtl');
+    // document.querySelector("html").setAttribute('dir', 'ltr');
   },
   methods: {
     setDefaultAttributes() {
