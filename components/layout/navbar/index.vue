@@ -5,6 +5,8 @@ import AppsDropdown from "~/components/layout/navbar/AppsDropdown.vue";
 import CartDropdown from "~/components/layout/navbar/CartDropdown.vue";
 import NotificationDropdown from "~/components/layout/navbar/NotificationDropdown.vue";
 import ProfileDropdown from "~/components/layout/navbar/ProfileDropdown.vue";
+import nuxtStorage from "nuxt-storage";
+import { setAttribute } from "~/app/utils.js";
 /**
  * Nav-bar Component
  */
@@ -152,7 +154,6 @@ export default {
         }
       }
     },
-
     toggleDarkMode() {
       if (document.documentElement.getAttribute("data-bs-theme") == "dark") {
         document.documentElement.setAttribute("data-bs-theme", "light");
@@ -251,6 +252,12 @@ export default {
           : pageTopbar.classList.remove("topbar-shadow");
       }
     });
+
+    if (window.innerWidth < 768) {
+        document.body.classList.add("vertical-sidebar-enable");
+        // setAttribute("data-sidebar-size", "sm");
+      document.documentElement.setAttribute("data-sidebar-size", "sm");
+    }
 
     // hide empty cart
     if (document.getElementById("topnav-hamburger-icon"))

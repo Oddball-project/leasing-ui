@@ -36,7 +36,7 @@ export default {
     if (nuxtStorage.localStorage.getData("hoverd") == "true") {
       setAttribute("data-sidebar-size", "sm-hover-active");
     }
-
+    
     if (window.innerWidth < 768) {
       document.documentElement.addEventListener("click", (event) => {
         if(event.target.classList.contains("vertical-overlay")) {
@@ -96,24 +96,24 @@ export default {
       <div class="app-menu navbar-menu">
         <!-- LOGO -->
         <div class="navbar-brand-box">
-<!--          &lt;!&ndash; Dark Logo&ndash;&gt;-->
-<!--          <nuxt-link to="/" class="logo logo-dark">-->
-<!--            <span class="logo-sm">-->
-<!--              <img src="@/assets/images/logo-sm.png" alt="" height="22" />-->
-<!--            </span>-->
-<!--            <span class="logo-lg">-->
-<!--              <img src="@/assets/images/logo-dark.png" alt="" height="22" />-->
-<!--            </span>-->
-<!--          </nuxt-link>-->
-<!--          &lt;!&ndash; Light Logo&ndash;&gt;-->
-<!--          <nuxt-link to="/" class="logo logo-light">-->
-<!--            <span class="logo-sm">-->
-<!--              <img src="@/assets/images/logo-sm.png" alt="" height="22" />-->
-<!--            </span>-->
-<!--            <span class="logo-lg">-->
-<!--              <img src="@/assets/images/logo-light.png" alt="" height="22" />-->
-<!--            </span>-->
-<!--          </nuxt-link>-->
+          <!-- Dark Logo-->
+          <nuxt-link to="/" class="logo logo-dark">
+            <span class="logo-sm">
+              <img src="@/assets/images/logo-sm.png" alt="" height="22" />
+            </span>
+            <span class="logo-lg">
+              <img src="@/assets/images/logo-dark.png" alt="" height="22" />
+            </span>
+          </nuxt-link>
+          <!-- Light Logo-->
+          <nuxt-link to="/" class="logo logo-light">
+            <span class="logo-sm">
+              <img src="@/assets/images/logo-sm.png" alt="" height="22" />
+            </span>
+            <span class="logo-lg">
+              <img src="@/assets/images/logo-light.png" alt="" height="22" />
+            </span>
+          </nuxt-link>
           <BButton
             type="button"
             size="lg"

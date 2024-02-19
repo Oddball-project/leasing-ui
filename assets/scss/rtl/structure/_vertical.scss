@@ -89,10 +89,10 @@
 
 [data-layout="vertical"] {
     .app-menu {
-        @media (max-width: 767.98px) {
-            margin-right: -100%;
-            margin-left: auto;
-        }
+        //@media (max-width: 767.98px) {
+        //    //margin-right: -100%;
+        //    //margin-left: auto;
+        //}
     }
 
     /********** sm-hover **********/
@@ -253,9 +253,9 @@
 
 // Mobile Menu
 .vertical-sidebar-enable {
-    .app-menu {
-        margin-right: 0 !important;
-    }
+    //.app-menu {
+    //    margin-right: 0 !important;
+    //}
 }
 
 //sidebar-images
