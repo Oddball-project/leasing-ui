@@ -119,67 +119,19 @@ export default {
                                                 class="effect-circle-1 position-relative mx-auto rounded-circle d-flex align-items-center justify-content-center">
                                                 <div
                                                     class="effect-circle-2 position-relative mx-auto rounded-circle d-flex align-items-center justify-content-center">
-                                                    <div
-                                                        class="effect-circle-3 mx-auto rounded-circle position-relative text-white fs-4xl d-flex align-items-center justify-content-center">
-                                                        Welcome to <span class="text-primary ms-1">Steex</span>
-                                                    </div>
                                                 </div>
                                             </div>
-                                            <ul class="auth-user-list list-unstyled">
-                                                <li>
-                                                    <div class="avatar-sm d-inline-block">
-                                                        <div
-                                                            class="avatar-title bg-white shadow-lg overflow-hidden rounded-circle">
-                                                            <img src="@/assets/images/users/avatar-1.jpg" alt=""
-                                                                class="img-fluid" />
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="avatar-sm d-inline-block">
-                                                        <div
-                                                            class="avatar-title bg-white shadow-lg overflow-hidden rounded-circle">
-                                                            <img src="@/assets/images/users/avatar-2.jpg" alt=""
-                                                                class="img-fluid" />
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="avatar-sm d-inline-block">
-                                                        <div
-                                                            class="avatar-title bg-white shadow-lg overflow-hidden rounded-circle">
-                                                            <img src="@/assets/images/users/avatar-3.jpg" alt=""
-                                                                class="img-fluid" />
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="avatar-sm d-inline-block">
-                                                        <div
-                                                            class="avatar-title bg-white shadow-lg overflow-hidden rounded-circle">
-                                                            <img src="@/assets/images/users/avatar-4.jpg" alt=""
-                                                                class="img-fluid" />
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="avatar-sm d-inline-block">
-                                                        <div
-                                                            class="avatar-title bg-white shadow-lg overflow-hidden rounded-circle">
-                                                            <img src="@/assets/images/users/avatar-5.jpg" alt=""
-                                                                class="img-fluid" />
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                            </ul>
                                         </div>
 
                                         <div class="text-center">
-                                            <p class="text-white opacity-75 mb-0 mt-3">
+                                            <p class="text-white mb-0 mt-3">
                                                 &copy;
-                                                {{ new Date().getFullYear() }} Steex. Crafted with <i
-                                                    class="mdi mdi-heart text-danger"></i> by
-                                                Themesbrand
+                                                {{ new Date().getFullYear() }} Rodelas Residence Space and Leasing.
+                                            </p>
+                                            <p class="text-white mb-0 mt-3">
+                                              Crafted with <i
+                                                class="mdi mdi-heart text-danger"></i> by
+                                              Kim Benedict Santiago
                                             </p>
                                         </div>
                                     </BCardBody>
@@ -190,7 +142,7 @@ export default {
                                     <BCardBody class="p-sm-5 m-lg-4">
                                         <div class="text-center mt-2">
                                             <h5 class="fs-3xl">Create your free account</h5>
-                                            <p class="text-muted">Get your free Steex account now</p>
+                                            <p class="text-muted">Get your free Rodelas Residence Space and Leasing account now</p>
                                         </div>
                                         <div class="p-2 mt-5">
                                             <form class="needs-validation" @submit.prevent="tryToRegisterIn">
@@ -249,7 +201,7 @@ export default {
 
                                                 <div class="mb-4">
                                                     <p class="mb-0 fs-xs text-muted fst-italic">By registering you agree to
-                                                        the Steex <nuxt-link to="/pages/term-conditions"
+                                                        the Rodelas Residence Space and Leasing <nuxt-link to="/pages/term-conditions"
                                                             class="text-primary text-decoration-underline fst-normal fw-medium">Terms
                                                             of Use</nuxt-link></p>
                                                 </div>

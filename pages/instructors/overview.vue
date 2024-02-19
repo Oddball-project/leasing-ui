@@ -948,7 +948,7 @@ export default {
                     </div>
                   </div>
                 </td>
-                <td class="students_email">vandervort@steex.com</td>
+                <td class="students_email">vandervort@rodelasresidence.com</td>
                 <td class="students_contact">+(512) 34682 17935</td>
                 <td class="students_courses">8</td>
                 <td class="joined_date">12 March, 2023</td>
@@ -1007,7 +1007,7 @@ export default {
                     </div>
                   </div>
                 </td>
-                <td class="students_email">marcelino@steex.com</td>
+                <td class="students_email">marcelino@rodelasresidence.com</td>
                 <td class="students_contact">+(210) 95162 15935</td>
                 <td class="students_courses">0</td>
                 <td class="joined_date">29 Feb, 2023</td>
@@ -1120,7 +1120,7 @@ export default {
                     </div>
                   </div>
                 </td>
-                <td class="students_email">deondrehuel@steex.com</td>
+                <td class="students_email">deondrehuel@rodelasresidence.com</td>
                 <td class="students_contact">+(532) 35795 15935</td>
                 <td class="students_courses">9</td>
                 <td class="joined_date">29 Jan, 2023</td>
@@ -1177,7 +1177,7 @@ export default {
                     </div>
                   </div>
                 </td>
-                <td class="students_email">zacharystokes@steex.com</td>
+                <td class="students_email">zacharystokes@rodelasresidence.com</td>
                 <td class="students_contact">+(44) 98765 32104</td>
                 <td class="students_courses">3</td>
                 <td class="joined_date">09 Jan, 2023</td>

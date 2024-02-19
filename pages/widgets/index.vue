@@ -32,7 +32,7 @@ export default {
       title: "Widgets",
       items: [
         {
-          text: "Steex",
+          text: "Rodelas Residence Space and Leasing",
           href: "/"
         },
         {

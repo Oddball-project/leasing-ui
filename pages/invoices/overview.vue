@@ -90,7 +90,7 @@ export default {
               </h6>
               <h6>
                 <span class="text-muted fw-normal">Email:</span>
-                <span id="email">steex@themesbrand.com</span>
+                <span id="email">rodelasresidence@themesbrand.com</span>
               </h6>
               <h6>
                 <span class="text-muted fw-normal">Website:</span>
@@ -250,7 +250,7 @@ export default {
                   <BTd class="text-end">$409.13</BTd>
                 </BTr>
                 <BTr>
-                  <BTd>Discount <small class="text-muted">(STEEX30)</small></BTd>
+                  <BTd>Discount <small class="text-muted">(RODELAS30)</small></BTd>
                   <BTd class="text-end">-$681.88</BTd>
                 </BTr>
                 <BTr>

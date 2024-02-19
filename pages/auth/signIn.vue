@@ -57,7 +57,7 @@ definePageMeta({
                   <BCardBody class="p-sm-5 m-lg-4">
                     <div class="text-center mt-5">
                       <h5 class="fs-3xl">Welcome Back</h5>
-                      <p class="text-muted">Sign in to continue to Steex.</p>
+                      <p class="text-muted">Sign in to continue to Rodelas.</p>
                     </div>
                     <div class="p-2 mt-5">
                       <form action="/">

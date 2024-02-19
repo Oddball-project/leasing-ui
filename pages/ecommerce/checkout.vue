@@ -924,7 +924,7 @@ export default {
                     </tr>
                     <tr>
                       <td colspan="2">
-                        Discount <span class="text-muted">(STEEX30)</span> :
+                        Discount <span class="text-muted">(RODELAS30)</span> :
                       </td>
                       <td class="text-end">- $681.89</td>
                     </tr>

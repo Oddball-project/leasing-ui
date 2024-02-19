@@ -21,14 +21,6 @@ definePageMeta({
                   <BCardBody
                     class="py-5 d-flex justify-content-between flex-column h-100"
                   >
-<!--                    <div class="text-center">-->
-<!--                      <h3 class="text-white">Start your journey with us.</h3>-->
-<!--                      <p class="text-white opacity-75 fs-base">-->
-<!--                        It brings together your tasks, projects, timelines,-->
-<!--                        files and more-->
-<!--                      </p>-->
-<!--                    </div>-->
-
                     <div
                       class="auth-effect-main my-5 position-relative rounded-circle d-flex align-items-center justify-content-center mx-auto"
                     >
@@ -41,8 +33,6 @@ definePageMeta({
                           <div
                             class="effect-circle-3 mx-auto rounded-circle position-relative text-white fs-4xl d-flex align-items-center justify-content-center"
                           >
-<!--                            Welcome to-->
-<!--                            <span class="text-primary ms-1">Steex</span>-->
                           </div>
                         </div>
                       </div>

@@ -64,7 +64,7 @@ export default {
               >Customer Info</BCardTitle
             >
             <p class="fw-medium fs-md mb-1">Bryana Watsica</p>
-            <p class="text-muted mb-1">watsica@steex.com</p>
+            <p class="text-muted mb-1">watsica@rodelasresidence.com</p>
             <p class="text-muted mb-0">+(253) 01234 56789</p>
           </div>
           <div class="flex-shrink-0">
@@ -344,7 +344,7 @@ export default {
                     </tr>
                     <tr>
                       <td>
-                        Discount <span class="text-muted">(STEEX30)</span> : :
+                        Discount <span class="text-muted">(RODELAS30)</span> : :
                       </td>
                       <td class="text-end">-$681.89</td>
                     </tr>

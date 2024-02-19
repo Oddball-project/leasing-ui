@@ -382,7 +382,7 @@ export default {
                   <td class="text-end cart-subtotal">$1306.52</td>
                 </tr>
                 <tr>
-                  <td>Discount <span class="text-muted">(Steex15)</span>:</td>
+                  <td>Discount <span class="text-muted">(Rodelas15)</span>:</td>
                   <td class="text-end cart-discount">- $195.98</td>
                 </tr>
                 <tr>

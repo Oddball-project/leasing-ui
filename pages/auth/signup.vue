@@ -57,7 +57,7 @@ definePageMeta({
                   <BCardBody class="p-sm-5 m-lg-4">
                     <div class="text-center mt-2">
                       <h5 class="fs-3xl">Create your free account</h5>
-                      <p class="text-muted">Get your free Steex account now</p>
+                      <p class="text-muted">Get your free Rodelas account now</p>
                     </div>
                     <div class="p-2 mt-5">
                       <form class="needs-validation" novalidate action="/">
@@ -120,7 +120,7 @@ definePageMeta({
 
                         <div class="mb-4">
                           <p class="mb-0 fs-xs text-muted fst-italic">
-                            By registering you agree to the Steex
+                            By registering you agree to the Rodelas
                             <nuxt-link
                               to="/pages/term-conditions"
                               class="text-primary text-decoration-underline fst-normal fw-medium"

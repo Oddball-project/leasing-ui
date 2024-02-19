@@ -51,7 +51,7 @@ export default {
                     </div>
                     <div class="mt-4 pt-2 text-center">
                       <h5 class="fs-2xl">You are Logged Out</h5>
-                      <p class="text-muted">Thank you for using <span class="fw-semibold">steex</span> admin template</p>
+                      <p class="text-muted">Thank you for using <span class="fw-semibold">Rodelas Residence Space and Leasing</span> admin template</p>
                       <div class="mt-4">
                         <nuxt-link to="/auth/signin" class="btn btn-primary w-100">Sign In</nuxt-link>
                       </div>

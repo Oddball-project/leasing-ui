@@ -1936,7 +1936,7 @@ export default {
               </div>
               <div class="flex-grow-1 overflow-hidden">
                 <h5 class="fs-sm fw-medium text-truncate mb-1">
-                  Steex admin.ppt
+                  Rodelas admin.ppt
                 </h5>
                 <p class="text-muted fs-xs mb-0">2.4 MB</p>
               </div>

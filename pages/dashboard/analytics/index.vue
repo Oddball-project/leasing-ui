@@ -760,7 +760,7 @@ export default {
                 <tr>
                   <td>
                     <BLink href="#" class="activePage text-reset"
-                      >/steex/learning</BLink
+                      >/rodelas/learning</BLink
                     >
                   </td>
                   <td class="activePageNo">75</td>

@@ -675,7 +675,7 @@ export default {
                             <BTr>
                               <BTh scope="row">
                                 Discount
-                                <small class="text-muted">(STEEX30)</small>
+                                <small class="text-muted">(RODELAS30)</small>
                               </BTh>
                               <BTd>
                                 <BFormInput

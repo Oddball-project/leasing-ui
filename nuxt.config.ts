@@ -10,12 +10,12 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Steex is a modern and responsive Nuxt.js admin & dashboard template that is perfect for building powerful and user-friendly web applications. It comes with a wide range of features, including a built-in CMS, a user management system, and a variety of pre-built pages and components."
+            "Rodelas Residence Space and Leasing is a modern and responsive Nuxt.js admin & dashboard template that is perfect for building powerful and user-friendly web applications. It comes with a wide range of features, including a built-in CMS, a user management system, and a variety of pre-built pages and components."
         },
         {
           name: "keywords",
           content:
-            "steex, nuxt.js, admin template, dashboard template, web application, cms, user management"
+            "rodelas, nuxt.js, admin template, dashboard template, web application, cms, user management"
         },
         { name: "author", content: "Themesbrand" }
       ],

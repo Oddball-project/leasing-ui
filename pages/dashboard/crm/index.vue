@@ -880,7 +880,7 @@ export default {
                   <div class="flex-grow-1 overflow-hidden">
                     <h6 class="fs-md text-truncate">
                       <BLink href="#!" class="text-reset"
-                        >Steex - Admin Dashboard</BLink
+                        >Rodelas Residence Space and Leasing - Admin Dashboard</BLink
                       >
                     </h6>
                     <p class="text-muted mb-0">

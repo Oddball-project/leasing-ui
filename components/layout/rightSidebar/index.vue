@@ -338,7 +338,7 @@ export default {
         class="d-flex align-items-center bg-primary bg-gradient p-3 offcanvas-header"
       >
         <div class="me-2">
-          <h5 class="mb-1 text-white">Steex Builder</h5>
+          <h5 class="mb-1 text-white">Rodelas Builder</h5>
           <p class="text-white text-opacity-75 mb-0">
             Choose your themes & layouts etc.
           </p>

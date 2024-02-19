@@ -62,7 +62,7 @@ definePageMeta({
                       <h5 class="fs-2xl">You are Logged Out</h5>
                       <p class="text-muted">
                         Thank you for using
-                        <span class="fw-semibold">steex</span> admin template
+                        <span class="fw-semibold">Rodelas</span> admin template
                       </p>
                       <div class="mt-4">
                         <nuxt-link

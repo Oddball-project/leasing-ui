@@ -105,7 +105,7 @@ export default {
           <p class="text-muted mb-2">
             If you have additional questions or require more information about
             our Privacy Policy, do not hesitate to contact us through email at
-            <b>steex@themesbrand.com</b>
+            <b>rodelasresidence@themesbrand.com</b>
           </p>
           <p class="text-muted">
             This privacy policy applies only to our online activities and is

@@ -1,2 +1,2 @@
-# steex-nuxt
-steex-nuxt
+# rodelas-nuxt
+Rodelas-nuxt

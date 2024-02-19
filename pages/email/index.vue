@@ -1027,7 +1027,7 @@ export default {
         <Simplebar class="mx-n4 px-4 email-detail-content-scroll">
           <div class="mt-4 mb-3">
             <h5 class="fw-bold email-subject-title">
-              New updates for Steex Theme
+              New updates for Rodelas Residence Space and Leasing Theme
             </h5>
           </div>
 

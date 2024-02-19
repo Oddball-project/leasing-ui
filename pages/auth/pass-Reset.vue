@@ -57,7 +57,7 @@ definePageMeta({
                   <BCardBody class="p-sm-5 m-lg-4">
                     <div class="text-center mt-2">
                       <h5 class="fs-3xl">Forgot Password?</h5>
-                      <p class="text-muted mb-4">Reset password with Steex</p>
+                      <p class="text-muted mb-4">Reset password with Rodelas</p>
                       <div class="pb-4">
                         <img
                           src="@/assets/images/auth/email.png"
